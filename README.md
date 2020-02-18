@@ -5,6 +5,11 @@
 ## 如何使用
 
 * zcli init z-app@github
+* input your project name
+* cd project
+* npm install
+* create or modify .env
+* npm run dev
 
 ## 问题反馈
 
